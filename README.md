@@ -1,16 +1,16 @@
-### Hi there 👋
+# Всем привет, меня зовут Илья 👋
 
-<!--
-**IlyaKZN/IlyaKZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌝Я начинающий фронтендер
+* 💥Хочу работать над функциональными, современными проектами
+* ⭐Основной фреймворк - **React.js**
+* ❔ В планах изучение **Vue.js**
+* 🔥Хочу попасть в команду опытных разработчиков
 
-Here are some ideas to get you started:
+🔨**Мой стек:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="HTML 5" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />
+<img align="left" alt="Css 3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/344/react.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
+<img align="left" alt="StyledComponents" width="26px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
